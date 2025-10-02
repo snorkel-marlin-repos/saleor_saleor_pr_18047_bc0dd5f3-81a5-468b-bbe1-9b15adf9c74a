@@ -122,7 +122,7 @@ package-mode = false
   text-unidecode = "^1.2"
   urllib3 = "^2.4.0"
   uvicorn = {extras = ["standard"], version = "^0.32.0"}
-  setuptools = "^76.0.0"
+  setuptools = "^80.9.0"
   psycopg = {version = "^3.2.9", extras = ["binary"]}
   pydantic = "^2.11.0"
   pydantic-core = "^2.33.0"
